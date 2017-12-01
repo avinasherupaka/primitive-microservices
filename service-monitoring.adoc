@@ -26,7 +26,7 @@ https://docs.newrelic.com/docs/agents/java-agent/installation/java-agent-self-in
 
 === Deploy the Application
 
-. Clone the workspace: `git clone https://github.com/arun-gupta/microservices.git`
+. Clone the workspace: `https://github.com/avinasherupaka/primitive-microservices.git`
 . Start WildFly application server: `./bin/standalone.sh`
 . Change the directory to `microservice` and deploy as `mvn install -Pwildfly`
 . Access the application at http://localhost:8080/everest-web
@@ -74,4 +74,3 @@ TODO:
 . System resources  (CPU, network, disk)
 . JVM pressure (threads GC, mem)
 . Apdex score
-

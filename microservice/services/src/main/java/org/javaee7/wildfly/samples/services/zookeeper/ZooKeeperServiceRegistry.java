@@ -15,7 +15,7 @@ import org.javaee7.wildfly.samples.services.registration.ServiceRegistry;
 import org.javaee7.wildfly.samples.services.ZooKeeperServices;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @ZooKeeperServices
 @ApplicationScoped

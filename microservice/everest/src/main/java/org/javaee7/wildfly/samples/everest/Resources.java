@@ -7,7 +7,7 @@ import org.javaee7.wildfly.samples.services.ZooKeeperServices;
 import org.javaee7.wildfly.samples.services.discovery.ServiceDiscovery;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @ApplicationScoped
 public class Resources {

@@ -5,8 +5,8 @@ Each microservice will typically publish a URI that can then be invoked by other
 . Start API Man:
 
   docker run -it -p 8082:8080 jboss/apiman-wildfly
-  docker run -it -p 8082:8080 arungupta/apiman-wildfly
+  docker run -it -p 8082:8080 avinash/apiman-wildfly
 
 . Start API Man with all the required resources created:
 
-  docker run -it -p 8082:8080 arungupta/apiman-microservices
+  docker run -it -p 8082:8080 avinash/apiman-microservices

@@ -17,7 +17,7 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Stateless
 @Path("catalog")

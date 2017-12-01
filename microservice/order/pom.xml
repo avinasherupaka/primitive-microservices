@@ -49,7 +49,7 @@
                     <images>
                         <image>
                             <alias>order</alias>
-                            <name>arungupta/shoppingcart-order</name>
+                            <name>avinash/shoppingcart-order</name>
                             <build>
                                 <from>jboss/wildfly</from>
                                 <assembly>

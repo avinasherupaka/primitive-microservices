@@ -15,7 +15,7 @@ There are multiple tools used for service registry and discovery. This document 
 docker run -d -p 2181:2181 fabric8/zookeeper
 ----
 
-Complete details: http://blog.arungupta.me/zookeeper-microservice-registration-discovery/
+Complete details: http://blog.avinash.me/zookeeper-microservice-registration-discovery/
 
 
 ## Consul

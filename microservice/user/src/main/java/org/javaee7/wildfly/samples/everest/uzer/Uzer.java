@@ -11,7 +11,7 @@ import javax.persistence.NamedQuery;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Entity
 @NamedQueries({

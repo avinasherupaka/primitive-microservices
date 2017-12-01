@@ -18,7 +18,7 @@ import org.javaee7.wildfly.samples.everest.cart.CartItem;
 import org.javaee7.wildfly.samples.services.discovery.ServiceDiscovery;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

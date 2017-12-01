@@ -53,7 +53,7 @@
                     <images>
                         <image>
                             <alias>everest-web</alias>
-                            <name>arungupta/shoppingcart-web</name>
+                            <name>avinash/shoppingcart-web</name>
                             <build>
                                 <from>jboss/wildfly</from>
                                 <assembly>

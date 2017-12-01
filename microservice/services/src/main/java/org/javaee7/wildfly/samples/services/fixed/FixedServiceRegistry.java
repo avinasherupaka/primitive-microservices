@@ -13,7 +13,7 @@ import org.javaee7.wildfly.samples.services.FixedServices;
 import org.javaee7.wildfly.samples.services.registration.ServiceRegistry;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @FixedServices
 @ApplicationScoped
@@ -34,7 +34,6 @@ public class FixedServiceRegistry implements ServiceRegistry {
             if (!Files.exists(path)) {
                 Files.createFile(path);
             }
-            // Workaround until https://github.com/arun-gupta/microservices/issues/31 is fixed
         } catch (IOException ex) {
             throw new RuntimeException(ex);
         }

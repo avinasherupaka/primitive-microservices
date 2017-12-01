@@ -3,7 +3,7 @@ package org.javaee7.wildfly.samples.everest.uzer;
 import javax.ws.rs.core.Application;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 //@EnableSnoopClient
 @javax.ws.rs.ApplicationPath("resources")

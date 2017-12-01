@@ -1,7 +1,7 @@
 package org.javaee7.wildfly.samples.services.registration;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 public interface ServiceRegistry {
     public void registerService(String name, String uri);

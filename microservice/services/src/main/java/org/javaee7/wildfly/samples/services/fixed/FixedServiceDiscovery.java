@@ -7,7 +7,7 @@ import org.javaee7.wildfly.samples.services.FixedServices;
 import org.javaee7.wildfly.samples.services.registration.ServiceRegistry;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @FixedServices
 @ApplicationScoped

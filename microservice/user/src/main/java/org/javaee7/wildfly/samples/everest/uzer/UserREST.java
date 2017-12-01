@@ -18,7 +18,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.Response;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Stateless
 @Path("user")

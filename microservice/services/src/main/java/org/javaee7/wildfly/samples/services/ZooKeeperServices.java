@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 import javax.inject.Qualifier;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Qualifier
 @Retention(RUNTIME)

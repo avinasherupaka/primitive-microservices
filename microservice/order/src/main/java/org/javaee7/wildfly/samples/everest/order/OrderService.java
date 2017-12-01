@@ -10,7 +10,7 @@ import org.javaee7.wildfly.samples.services.ZooKeeperServices;
 import org.javaee7.wildfly.samples.services.registration.ServiceRegistry;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Startup
 @Singleton

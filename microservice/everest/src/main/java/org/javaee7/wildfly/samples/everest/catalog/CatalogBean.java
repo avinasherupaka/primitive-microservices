@@ -13,7 +13,7 @@ import javax.ws.rs.core.Response;
 import org.javaee7.wildfly.samples.services.discovery.ServiceDiscovery;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

@@ -10,7 +10,7 @@ import javax.persistence.PersistenceContext;
 import org.javaee7.wildfly.samples.everest.uzer.UzerItem;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

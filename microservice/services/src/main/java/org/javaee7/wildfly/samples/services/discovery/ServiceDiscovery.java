@@ -5,7 +5,7 @@ import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.WebTarget;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 public abstract class ServiceDiscovery {
 

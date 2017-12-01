@@ -48,7 +48,7 @@
                     <images>
                         <image>
                             <alias>catalog</alias>
-                            <name>arungupta/shoppingcart-catalog</name>
+                            <name>avinash/shoppingcart-catalog</name>
                             <build>
                                 <from>jboss/wildfly</from>
                                 <assembly>

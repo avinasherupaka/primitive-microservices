@@ -4,7 +4,7 @@ import java.io.Serializable;
 import javax.persistence.Embeddable;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Embeddable
 public class OrderItem implements Serializable {

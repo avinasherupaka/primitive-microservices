@@ -49,7 +49,7 @@
                     <images>
                         <image>
                             <alias>user</alias>
-                            <name>arungupta/shoppingcart-user</name>
+                            <name>avinash/shoppingcart-user</name>
                             <build>
                                 <from>jboss/wildfly</from>
                                 <assembly>

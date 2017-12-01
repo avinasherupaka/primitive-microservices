@@ -9,7 +9,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

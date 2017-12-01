@@ -5,7 +5,7 @@ import javax.enterprise.context.SessionScoped;
 import javax.inject.Named;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

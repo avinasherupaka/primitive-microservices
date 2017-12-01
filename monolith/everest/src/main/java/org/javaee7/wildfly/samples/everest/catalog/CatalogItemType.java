@@ -6,7 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Entity
 public class CatalogItemType implements Serializable {

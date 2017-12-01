@@ -8,7 +8,7 @@ import javax.inject.Named;
 import javax.xml.bind.annotation.XmlRootElement;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

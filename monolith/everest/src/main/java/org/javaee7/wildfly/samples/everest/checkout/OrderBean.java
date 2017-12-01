@@ -13,7 +13,7 @@ import org.javaee7.wildfly.samples.everest.cart.Cart;
 import org.javaee7.wildfly.samples.everest.cart.CartItem;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Named
 @SessionScoped

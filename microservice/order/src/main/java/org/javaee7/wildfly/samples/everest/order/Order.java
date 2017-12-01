@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author arungupta
+ * @author avinash
  */
 @Entity
 @Table(name = "CART_ORDER")
